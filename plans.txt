@@ -1,0 +1,11 @@
+Setting one pixel-done with SetPixel, 
+Setting a matrix of any size
+setting text
+scrolling text
+setting an image
+scrolling an image
+Draw lines, circles
+create an animation
+clear background
+fill background
+
